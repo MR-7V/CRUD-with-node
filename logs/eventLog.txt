@@ -1,0 +1,44 @@
+20221003	14:10:03	fbac5708-b1d1-479c-b8e9-c2219114e835	GET	undefined	/subdir/index
+20221003	14:10:03	87bc0b19-701b-4911-ba49-de53253dd8ac	GET	undefined	/subdir/css/style.css
+20221003	14:10:03	8bda102b-73a1-482f-8645-24ef35681eb4	Error: ENOENT: no such file or directory, stat '/Users/seshasaila/mynode/untitled folder/views/404html'
+20221003	14:10:55	6d454453-b1fb-43fe-b69e-779954e3017a	GET	undefined	/subdir
+20221003	14:10:55	04555042-f9cd-43d8-aa33-b480e980eb71	Error: ENOENT: no such file or directory, stat '/Users/seshasaila/mynode/untitled folder/views/404html'
+20221003	14:12:48	e54c0a44-134e-437c-a303-87f73938e7dc	GET	undefined	/subdir
+20221003	14:12:48	bdb6f77e-c1ed-424c-8003-66bfa9ffca99	Error: ENOENT: no such file or directory, stat '/Users/seshasaila/mynode/untitled folder/views/404html'
+20221003	14:14:29	15fe6018-d2dc-4d03-b522-9006bdb331f5	GET	undefined	/subdir
+20221003	14:14:29	80853558-4972-4163-ab14-7451cffb6689	GET	undefined	/css/style.css
+20221003	14:20:03	4b9083ab-f91f-4f7f-b062-76b31cb2a226	GET	undefined	/subdir
+20221003	14:20:03	0cd67bde-2d50-46bc-ad77-d43cf2bc69da	GET	undefined	/css/style.css
+20221003	14:22:22	542a2c6e-4917-4eeb-a7b2-fe5f3156f9c2	GET	undefined	/subdir/df
+20221003	14:22:22	642c3223-fb5f-42b4-8c23-2f916f939d4e	Error: ENOENT: no such file or directory, stat '/Users/seshasaila/mynode/node-project/views/404html'
+20221003	14:23:05	5d9f7b13-e45a-4a7f-9bb9-ac4bccbdb5dc	GET	undefined	/df
+20221003	14:23:05	157a5e68-8d4a-47eb-9950-bdaf7db962ab	Error: ENOENT: no such file or directory, stat '/Users/seshasaila/mynode/node-project/views/404html'
+20221003	14:26:06	01d2c5fd-dadc-48b7-a1d5-47f482fe5292	GET	undefined	/df
+20221003	14:26:06	c54c586a-bfdd-4970-af4d-ef8bdb71f5c6	Error: ENOENT: no such file or directory, stat '/Users/seshasaila/mynode/node-project/views/404html'
+20221003	14:26:20	dd561a47-085b-4739-8c0b-1994c02d07e5	GET	undefined	/df
+20221003	14:26:36	e5191a0d-7faf-44ae-beec-c2db3591647d	GET	undefined	/subdir
+20221003	14:26:36	91488c7e-e2cb-46ef-95e5-c7add467ad5e	GET	undefined	/subdir/
+20221003	14:26:36	fa0d92d2-b75d-4b16-90ab-938674e2901c	GET	undefined	/subdir/css/style.css
+20221003	14:26:40	931df803-bd24-45fa-a945-da2a5b7b6fd8	GET	undefined	/subdir/div
+20221003	15:35:01	3b4c29ba-048a-438b-9312-28314c7e767c	GET	undefined	/
+20221003	15:35:01	c17c3254-9c16-4b98-955f-6631aae8b0a7	GET	undefined	/css/style.css
+20221003	16:53:17	8c04671b-8542-42da-9c1a-0f78f1e0d21a	GET	undefined	/dev
+20221003	18:57:15	31fc83c3-cf7e-49a0-b650-37bfd0e1f21d	GET	undefined	/employees
+20221003	18:57:27	4594c90e-cae3-4c6e-abea-c50643ca6d3d	GET	undefined	/teachers
+20221003	18:57:28	319182d1-026a-4494-a4c9-36de183f05a7	GET	undefined	/teachers
+20221003	19:00:39	cd69e0de-2342-4b37-89fe-1ba4b46ffc68	GET	undefined	/teachers
+20221003	19:04:49	654f1433-db20-4b32-abd4-fb696a45deee	POST	undefined	/teachers
+20221003	19:04:49	55fc9c51-6783-41b2-809c-f7a8b7de28ff	TypeError: req.json is not a function
+20221003	19:07:08	03e56df7-fdef-40ea-8707-aaffff00bdaa	POST	undefined	/teachers?firstname=mohith&lastname=reddy
+20221003	19:07:08	23d8b29b-9be5-424f-b77a-992d840b6ea4	TypeError: req.json is not a function
+20221003	19:23:25	2a9dc8b3-a408-44e5-889f-963fb200a9e1	POST	undefined	/teachers
+20221003	19:23:25	021b7302-8e0c-43b4-8d72-40ab81915f36	TypeError: req.json is not a function
+20221003	19:23:54	78bc1692-8322-48ed-86e7-88ecbbd44f8a	PUT	undefined	/teachers
+20221003	19:44:04	5b9bbf54-d80b-4912-a648-a1a25c1a4866	GET	undefined	/teachers
+20221003	19:45:19	22265f53-ce8d-44a1-997e-d48c96e9f2ba	PUT	undefined	/teachers
+20221003	20:12:09	1420af03-96c2-4899-95fb-9269ca3e738d	POST	undefined	/teachers
+20221003	20:14:19	78a7e89a-114c-4f3e-be3a-584079915045	PUT	undefined	/teachers
+20221003	21:00:13	100ba052-ad60-4e4a-98dc-8f3197cea829	DELETE	undefined	/teachers
+20221003	21:00:19	451d3086-bad2-4737-89ed-4b79b3158d12	DELETE	undefined	/teachers
+20221003	21:00:19	523e33ba-1545-4ecf-865b-bcbb00321baf	SyntaxError: Unexpected token } in JSON at position 6
+20221003	21:00:24	0a5c7b3a-4c64-4423-b499-b488fbf1c81b	DELETE	undefined	/teachers
