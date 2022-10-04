@@ -42,3 +42,20 @@
 20221003	21:00:19	451d3086-bad2-4737-89ed-4b79b3158d12	DELETE	undefined	/teachers
 20221003	21:00:19	523e33ba-1545-4ecf-865b-bcbb00321baf	SyntaxError: Unexpected token } in JSON at position 6
 20221003	21:00:24	0a5c7b3a-4c64-4423-b499-b488fbf1c81b	DELETE	undefined	/teachers
+20221004	14:31:50	395797b9-b7b4-492d-842a-89fdbba8d1a2	GET	undefined	/teachers
+20221004	14:32:19	5b634349-decb-4a62-8d0f-258e670a8917	POST	undefined	/teachers
+20221004	14:32:19	785ba61a-2c16-4d8a-85f9-f54866e82506	SyntaxError: Unexpected end of JSON input
+20221004	14:32:26	8cfc77a1-c2c8-4c92-9095-2250809f239f	GET	undefined	/teachers
+20221004	14:33:20	d54dd0ca-783b-4205-b138-54f9b28a8d3b	POST	undefined	/teachers
+20221004	14:34:21	9f0adf1e-aff1-46b2-8a78-c246cac77725	POST	undefined	/teachers
+20221004	14:34:21	6e0ba06f-ea56-4b78-93a1-3e38b126e765	Error: Cannot set headers after they are sent to the client
+20221004	14:34:55	330827a3-cff3-4b8a-9372-24b179581dd3	GET	undefined	/teachers
+20221004	14:35:45	6c94b314-9bee-40a8-a9fe-9b3cd5483972	POST	undefined	/teachers
+20221004	14:35:45	6c220fbf-7a3a-4add-ad9b-f02dd7069d94	Error: Cannot set headers after they are sent to the client
+20221004	14:35:50	3ca95108-aae9-46eb-b91c-fa0f75588a1b	GET	undefined	/teachers
+20221004	14:36:35	2cf14d08-5a74-4817-8127-4b3b4cdbdf7b	DELETE	undefined	/teachers
+20221004	14:40:03	89474696-ac79-4e85-ba3d-996646ed33fd	PUT	undefined	/teachers
+20221004	14:46:26	0752688b-5f6c-437c-af67-cbcc4bad49c5	POST	undefined	/teachers
+20221004	14:46:26	fb82a23b-7ddd-47d6-9c1a-0d7bed6e7176	Error: Cannot set headers after they are sent to the client
+20221004	14:46:30	d08081f9-aa73-4c52-8d7d-5574a691b2d0	GET	undefined	/teachers
+20221004	14:48:42	e3f19d1e-ffd7-4e7c-a3b4-126f1218b95e	GET	undefined	/teachers/3
