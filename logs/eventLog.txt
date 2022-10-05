@@ -59,3 +59,52 @@
 20221004	14:46:26	fb82a23b-7ddd-47d6-9c1a-0d7bed6e7176	Error: Cannot set headers after they are sent to the client
 20221004	14:46:30	d08081f9-aa73-4c52-8d7d-5574a691b2d0	GET	undefined	/teachers
 20221004	14:48:42	e3f19d1e-ffd7-4e7c-a3b4-126f1218b95e	GET	undefined	/teachers/3
+20221004	16:39:33	a911c741-9b68-4cb3-b83f-f30503946e26	GET	undefined	/teachers
+20221004	16:43:26	f30319fa-c3f6-42d6-9fd9-14c639169a34	GET	undefined	/teachers
+20221004	16:44:02	f1f9b461-a981-4b9e-8d41-0b5eb654a6b7	POST	undefined	/teachers
+20221004	16:44:02	ad8b799b-e7ad-43b9-a460-8b94ce7d846f	Error: Cannot set headers after they are sent to the client
+20221004	16:44:16	ac8467c1-11de-4b46-8a0b-fa86fe772c7c	GET	undefined	/teachers
+20221004	16:44:39	0e8c4392-dd67-434b-9933-c1252afb810c	DELETE	undefined	/teachers
+20221004	16:45:20	b576bcc1-c6f8-4332-b8e1-81002e7f6443	PUT	undefined	/teachers
+20221004	16:45:29	489d91ad-d0f6-4916-a77f-9336649279df	PUT	undefined	/teachers
+20221004	16:46:09	208db3ee-3ac6-40d7-b4f4-703bc8abd0b7	POST	undefined	/teachers
+20221004	16:46:09	0dc3933a-c6a2-40bf-814f-61609ad448cb	Error: Cannot set headers after they are sent to the client
+20221004	16:49:11	39cb6a20-0431-419e-8067-003ad5bc9aca	GET	undefined	/teachers
+20221004	16:49:15	bae90262-3daa-4780-b286-9f2af5ac042f	DELETE	undefined	/teachers
+20221004	16:49:31	b2f9c3e8-9d57-4dc8-8bf1-023e202d99b4	PUT	undefined	/teachers
+20221004	16:49:43	2108d0aa-309b-4df0-98f5-311d7f620148	POST	undefined	/teachers
+20221004	16:49:43	a31dfc0e-4027-418a-8d0f-eaef599bfd75	Error: Cannot set headers after they are sent to the client
+20221004	16:50:58	4baaf118-cbeb-4627-a554-1d9967348a0f	POST	undefined	/teachers
+20221005	21:36:25	298d1336-5a6d-478f-9985-2f7b7b0fadf5	GET	undefined	/register
+20221005	21:37:08	1a8f7e58-1bf5-4d02-8fb0-b1afb91dfa78	POST	undefined	/register
+20221005	21:38:34	00728dc1-8e66-4f00-9c0a-1288ddfb0c1a	POST	undefined	/register
+20221005	21:39:06	f10dc025-b28e-41ed-bb87-e77607dc44f0	POST	undefined	/register
+20221005	21:39:29	7b150ef5-488f-4513-8d4d-420a4015cf04	POST	undefined	/register
+20221005	21:40:34	301aab68-4257-469c-b9c8-4955488a0f37	POST	undefined	/register
+20221005	21:40:37	3e562194-5de1-420d-aab0-2eb3c056dede	POST	undefined	/register
+20221005	21:41:02	63277501-3312-4135-9d48-6a2c080ebe35	POST	undefined	/register
+20221005	21:45:05	8e1ee670-20dc-44c7-886a-c5384107db12	POST	undefined	/register
+20221005	21:45:17	bd197ad2-3bd5-4f54-b313-44e9e4d3ff4c	POST	undefined	/register
+20221005	21:46:44	99313c80-4ad0-4043-bc76-df6b72d08fe0	POST	undefined	/register
+20221005	21:46:45	7203dcbd-872f-4e97-8e1d-85ded17d9351	POST	undefined	/register
+20221005	21:46:57	28087e92-bde5-4b12-8432-83a49723148b	GET	undefined	/teachers/3
+20221005	21:47:05	9a8e2158-b667-4ad1-8c1f-9e79bbcf17ee	GET	undefined	/teachers
+20221005	21:47:11	c6843caa-ff84-494f-9f39-f7ae3bec0119	POST	undefined	/register
+20221005	21:48:36	e403bed5-d0ed-4889-bca3-646037580b10	POST	undefined	/register
+20221005	21:50:24	12743368-7388-4050-9c83-4cf31b58791c	POST	undefined	/register
+20221005	21:51:14	f6aa7193-c7c0-4502-ad24-9be012725b68	POST	undefined	/register
+20221005	21:56:51	3e4a480b-cb50-4df6-9772-cde505b3efe7	POST	undefined	/register
+20221005	22:00:20	e8cac46d-c099-4f54-bebe-b24b65796e3e	POST	undefined	/register
+20221005	22:01:37	48808d0f-fe9c-44e9-8f36-c89f6ee39c4a	POST	undefined	/register
+20221005	22:03:38	063c4259-4c73-4040-bd89-34b4558a532e	POST	undefined	/register
+20221005	22:34:36	14ea8bed-e2ea-474c-9cd0-7fb71a5d970a	POST	undefined	/register
+20221005	22:36:03	dab2c5d1-9723-4772-bc65-effb80b08cac	POST	undefined	/register
+20221005	22:37:13	9d7e2d21-8ea6-468a-9e4e-a3def1448a59	DELETE	undefined	/teachers
+20221005	22:42:27	85814a70-c014-4e34-908b-92af24b4ef1e	POST	undefined	/teachers
+20221005	22:43:21	44b60fa9-6447-4e5f-b121-25089d1d62b6	POST	undefined	/teachers
+20221005	22:46:17	72e67a1e-ff33-4e96-95dc-066457f2edc9	POST	undefined	/teachers
+20221005	23:27:22	3102f6ff-561e-4d9b-a395-da5560ad2f3f	POST	undefined	/auth
+20221005	23:27:48	99cf975c-2039-43f1-bd7a-ad0d9597809e	POST	undefined	/register
+20221005	23:28:10	8be475f7-ae10-4f4b-97c3-23d5a30256a2	POST	undefined	/auth
+20221005	23:31:24	14221a6b-5d09-470e-bff2-d78d205b5304	POST	undefined	/register
+20221005	23:31:43	abf06f73-4d1e-46f9-804a-41f140dcd142	POST	undefined	/auth
