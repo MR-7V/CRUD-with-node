@@ -142,3 +142,41 @@
 20221006	13:46:46	a32146d5-cc84-462a-8453-901947d162fd	GET	undefined	/teachers
 20221006	13:46:54	f830f212-23b4-4ccf-b262-b78084ee43fa	GET	undefined	/refresh
 20221006	13:47:05	9f51d928-d849-47b6-9882-3cd2aa999b69	GET	undefined	/teachers
+20221006	21:49:07	bba169f7-3110-4319-b022-a5c7f617e11d	POST	undefined	/auth
+20221006	21:51:24	e2f428d4-8361-4cf9-a561-9901dbcefc6a	POST	undefined	/auth
+20221006	21:51:43	1f6466cb-4191-4249-8d62-6b1e69fdb2e1	GET	undefined	/teachers
+20221006	21:51:43	326b98a5-d2aa-4a8a-a27f-a016579ab7e9	TypeError: authHeader?.startWith is not a function
+20221006	21:52:11	4d9d9808-cb7f-42ad-8f9b-d9239e0a2497	GET	undefined	/teachers
+20221006	21:52:11	69f6d66e-b1cc-454a-b87e-24a9ff0ad952	TypeError: authHeader?.startWith is not a function
+20221006	21:52:43	9355b525-817e-4d3e-8fd5-fb786908faac	POST	undefined	/auth
+20221006	21:52:52	7004d5af-f63a-4774-ab78-1d976763b560	GET	undefined	/teachers
+20221006	21:52:52	c4b03b79-c19e-485d-a4a8-90de4dcfa1b5	TypeError: authHeader?.startWith is not a function
+20221006	21:56:11	420377d4-26f0-423d-8eb9-7390e6df3389	POST	undefined	/auth
+20221006	21:56:20	f15a8f7a-7a5e-4fb1-b833-06d547e9b0f4	GET	undefined	/teachers
+20221006	21:56:52	e4da12a3-32a3-44cb-b72c-05e23e937da5	POST	undefined	/teachers
+20221006	21:58:46	183bc0b7-0dce-4d95-bee6-ce5566bd06e1	POST	undefined	/auth
+20221006	21:59:02	887ebcc4-d98d-41fb-ac22-496a24030c6e	GET	undefined	/teachers
+20221006	21:59:18	eb0660d3-9a55-49d9-9843-0e4fe8f581fc	POST	undefined	/teachers
+20221006	21:59:31	d82f48fa-cf14-48f2-b28c-06be35e8e53c	POST	undefined	/auth
+20221006	21:59:45	4207e703-8820-46c0-970a-50f3b27c4892	POST	undefined	/teachers
+20221006	22:02:50	7e305089-c406-4f8b-8550-77bdfff7cf04	POST	undefined	/auth
+20221006	22:03:02	59a36c4f-42d6-470f-8637-4449a21d2fd0	POST	undefined	/teachers
+20221006	22:14:11	fa06f493-b58f-4a29-8537-d1d4cd9b22f9	POST	undefined	/register
+20221006	22:14:54	374cd97e-ef01-4f0a-b45c-ac6ac4edd9db	POST	undefined	/auth
+20221006	22:15:06	14af089a-a4fc-4028-9f92-3bb02d9af891	GET	undefined	/teachers
+20221006	22:15:17	d831953d-e6c2-424d-aea7-d365f02143b0	DELETE	undefined	/teachers
+20221006	22:15:42	a0f20df1-4605-485f-8e10-82769d170923	POST	undefined	/auth
+20221006	22:16:01	333e7f14-69b5-4d10-a8f3-b806a9a65fb5	GET	undefined	/teachers
+20221006	22:16:14	4e8c2cd0-7aad-4be3-afae-ff6ff5435b11	DELETE	undefined	/teachers
+20221006	22:16:22	b1037bc9-2bdd-45c4-ae48-31a3ede793cf	POST	undefined	/auth
+20221006	22:16:33	75bddbae-a243-4a41-8325-2a8750b3f0ea	DELETE	undefined	/teachers
+20221006	22:18:37	d4fdf975-c87d-430a-b168-31a22e64a498	POST	undefined	/register
+20221006	22:19:26	fbd6a10e-baa9-4de7-844c-8bd0b1e23693	GET	undefined	/teachers
+20221006	22:20:14	933d1eb3-2985-490a-b161-1a8d19e4295f	DELETE	undefined	/teachers
+20221006	22:21:06	b22d18d4-7822-4ed8-addf-d6c92fa48a17	GET	undefined	/teachers/3
+20221006	22:22:13	c78636f3-8f6c-4a34-8d7d-62a4f443119c	POST	undefined	/teachers
+20221006	22:22:22	83071b0e-2a1b-4258-8229-690ac66d8db7	POST	undefined	/teachers
+20221006	22:22:41	3062a5cb-67a3-447b-a876-75794844742a	PUT	undefined	/teachers
+20221006	22:23:50	e5d603bd-1b3f-45d9-9b1b-ec97220c479b	GET	undefined	/teachers
+20221006	22:23:59	9f48dc79-cc3a-4281-81d9-1f9300949283	POST	undefined	/auth
+20221006	22:24:14	6e80420d-772c-4d9a-bbaf-11b8b2022a97	GET	undefined	/teachers
