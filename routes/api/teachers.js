@@ -1,6 +1,7 @@
 const express =  require("express");
 const router = express.Router();
 const teachersController = require('../../controllers/teachersController');
+//const verifyJWT = require('../../middleware/verifyJWT');
 //const path = require("path");
 
 router.route('/')

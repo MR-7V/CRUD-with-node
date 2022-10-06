@@ -6,17 +6,30 @@ const errorHandler = require('./middleware/errorHandler');
 const path = require('path');
 const cors = require('cors');
 const corsOptions = require('./config/corsOptions');
+const verifyJWT = require('./middleware/verifyJWT');
+const cookieParser = require('cookie-parser');
+const credentials = require('./middleware/credentials');
 const PORT = process.env.PORT || 3500;
+
 
 //custom middleware logger
 app.use(logger);
 
+//handle options credentials check - before cors!
+// and fetch cookies credentials requirement.
+app.use(credentials);
+
+//cross origin resourse sharing
 app.use(cors(corsOptions));
 
-//to handle url encoded data.
+//builtin middleware to handle urlencoded from data.
 app.use(express.urlencoded({extended:false}));
 
+//builtin middleware for json
 app.use(express.json());
+
+//middleware for cookies.
+app.use(cookieParser());
 
 //serve static files
 app.use('/',express.static(path.join(__dirname,'/public')));
@@ -25,9 +38,15 @@ app.use('/',express.static(path.join(__dirname,'/public')));
 
 app.use('/',require('./routes/root'));
 //app.use('/subdir',require('./routes/subdir'));
-app.use('/teachers',require('./routes/api/teachers'));
 app.use('/register', require('./routes/register'));
 app.use('/auth', require('./routes/auth'));
+app.use('/refresh', require('./routes/refresh'));
+app.use('/logout', require('./routes/logout'));
+
+
+//verifying JWT for /teachers route
+app.use(verifyJWT);
+app.use('/teachers',require('./routes/api/teachers'));
 
 app.all('*/',(req,res)=>{
     res.status(404);

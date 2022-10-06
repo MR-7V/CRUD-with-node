@@ -3,9 +3,6 @@ const data = {
     setTeachers: function(data) {this.teachers = data}
 }
 
-const fsPromises = require('fs').promises;
-const path = require('path');
-
 const getAllTeachers = (req, res)=>{
     res.json(data.teachers);
 }
@@ -20,10 +17,6 @@ const createNewTeacher = (req,res)=>{
         return res.status(400).json({'message': 'First and last names are required'});
     }
     data.setTeachers([...data.teachers, newTeacher]);
-    fsPromises.writeFile(
-        path.join(__dirname,'..','model','teachers.json'), 
-        JSON.stringify(data.teachers)
-    );
     res.json(data.teachers);
 }
 
@@ -47,6 +40,7 @@ const deleteTeacher = (req,res)=>{
     }
     const filteredArray = data.teachers.filter(teach=>teach.id !== parseInt(req.body.id));
     data.setTeachers([...filteredArray]);
+
     res.json(data.teachers);
 }
 
